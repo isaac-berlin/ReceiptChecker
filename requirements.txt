@@ -1,0 +1,9 @@
+# Image Processing
+pillow == 9.3.0
+
+# Text to Image parsing
+pytesseract == 0.3.10
+
+# Needed for PyTesseract
+packaging == 21.3
+pyparsing == 3.0.9
